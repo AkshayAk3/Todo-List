@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&family=Roboto:wght@300&display=swap');
+
+
+
+.done{
+    text-decoration: line-through;
+
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-photo/yellow-list-top-view_23-2148475388.jpg?w=2000);
+    background-size: cover;
+}
+
